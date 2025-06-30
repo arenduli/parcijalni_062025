@@ -11,7 +11,7 @@
         <property name="hibernate.show_sql">true</property>
         <property name="hibernate.hbm2ddl.auto">update</property>
 
-        <mapping class="Student"/>
+        <mapping class="Polaznik"/>
         <mapping class="ProgramObrazovanja"/>
         <mapping class="Upis"/>
     </session-factory>
